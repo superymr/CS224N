@@ -6,7 +6,8 @@
 
 - `outputs/`：可阅读的 Markdown 笔记与 Jupyter Notebook 练习。
 - `work/learning-notes/`：持续收集的笔记材料。
-- `outputs/CS224N-A1-前两题-简化与原版.ipynb`：每题分为自编简化用例与官方用例，保留学生填写区域及思考题。
+- `outputs/练习模板/CS224N-A1-前两题-简化与原版.ipynb`：公开空白练习，每题分为自编简化用例与官方用例，保留填写区域及思考题。
+- 原有个人练习文件仅在本地保留，由 `.gitignore` 排除。后续作答可放在 `outputs/个人作答/`，此目录也不上传。
 
 ## 使用练习
 

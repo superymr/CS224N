@@ -18,3 +18,8 @@ venv/
 .cache/
 datasets/
 data/
+
+# Personal exercise files stay local; publish only outputs/练习模板/.
+/outputs/CS224N-A1-前两题练习.ipynb
+/outputs/CS224N-A1-前两题-简化与原版.ipynb
+/outputs/个人作答/
