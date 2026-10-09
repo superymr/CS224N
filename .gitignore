@@ -1,0 +1,20 @@
+# Python and local notebook state
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+.idea/
+.vscode/
+
+# Credentials and local configuration
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Downloaded datasets and caches
+.cache/
+datasets/
+data/
